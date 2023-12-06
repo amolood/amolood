@@ -1,12 +1,12 @@
-# ABDALRAHMAN MOLOOD - Information Security & Technology Leader
+# CYBERSECURITY CONSULTANT - Information Security & Technology Leader
 
-👋 Hello, I'm ABDALRAHMAN MOLOOD, a dedicated professional with a passion for safeguarding information in our interconnected world. My expertise spans information security, big data, governance, and policy. I bring hands-on experience and a commitment to real-world impact, collaborating with nonprofits, businesses, civil society, and government organizations to fortify digital landscapes.
+👋 Hello, I'm ABDALRAHMAN MOLOOD, a dedicated cybersecurity professional with a passion for safeguarding information in our interconnected world. My expertise spans information security, big data, governance, and policy. I bring hands-on experience and a commitment to real-world impact, collaborating with nonprofits, businesses, civil society, and government organizations to fortify digital landscapes.
 
 ## Professional Experience
 
-### Former CTO at Digitalize Lab
+### Former CTO at a Confidential Organization
 
-🚀 As the former Chief Technology Officer at Digitalize Lab, I played a pivotal role in steering the company's technological development and fostering innovation. My responsibilities included:
+🚀 As the former Chief Technology Officer at a confidential organization, I played a pivotal role in steering the company's technological development and fostering innovation. My responsibilities included:
 
 - **Visionary Leadership:** Set the technical vision and strategy for the organization.
   
@@ -20,7 +20,7 @@
 
 - **Infrastructure Security:** Ensured the company's technology infrastructure was secure, reliable, and resilient.
 
-- **Competitive Edge:** Played a key role in enhancing JOVIA CO LTD's competitiveness by leveraging technology for innovation.
+- **Competitive Edge:** Played a key role in enhancing the organization's competitiveness by leveraging technology for innovation.
 
 ## Commitment Beyond Code
 
@@ -32,6 +32,6 @@
 
 ## Let's Connect
 
-🌐 I'm always open to discussions and collaborations. Let's connect to explore how we can contribute to the evolving landscape of information security, technology, and innovation.
+🌐 I'm always open to discussions and collaborations. Let's connect to explore how we can contribute to the evolving landscape of cybersecurity, technology, and innovation.
 
 [LinkedIn](https://www.linkedin.com/in/amolood/) | [Twitter](https://x.com/a99l) | [Personal Website/Blog](https://amolood.com)

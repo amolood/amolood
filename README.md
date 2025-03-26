@@ -20,10 +20,9 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 *   **Databases:** MySQL, PostgreSQL, MongoDB, [Add others you use]
 *   **Cloud:** AWS, Azure, Google Cloud Platform (GCP), Docker, Kubernetes 
 *   **DevOps:** CI/CD, Jenkins, Git,
-*   **Other:** [Add any other relevant skills, like specific testing frameworks, design patterns, or methodologies (Agile, Scrum)]
+*   **Other:** Agile, Scrum
 
 
-[**Note:**  Replace the above examples with *your actual project descriptions and links*.]
 
 ## Connect with Me
 

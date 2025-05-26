@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 
 *   **Frontend:** HTML, CSS, JavaScript, React, Angular, 
 *   **Backend:** Node.js, Python, Java, php , Laravel , codeigniter
-*   **Databases:** MySQL, PostgreSQL, MongoDB, [Add others you use]
+*   **Databases:** MySQL, PostgreSQL, MongoDB,
 *   **Cloud:** AWS, Azure, Google Cloud Platform (GCP), Docker, Kubernetes 
 *   **DevOps:** CI/CD, Jenkins, Git,
 *   **Other:** Agile, Scrum

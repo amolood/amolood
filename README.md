@@ -61,13 +61,13 @@ Welcome to my GitHub profile! I'm Abdalrahman Molood, a seasoned **Technology Co
 ---
 
 ## 🤝 Volunteer Experience & Community Engagement
-*   **ISNAD Sudanese community hub:** Founder
-*   **Afiyah (Covid19 platform) :** Founder
+*   **ISNAD Sudanese community hub:** Founder - [Aseer](https://aseer.net)
+*   **Afiyah (Covid19 platform) :** Founder 
 *   **Ethraa Initiative:** Founder & Developer
-*   **Access Now:** Ambassador
+*   **Access Now:** Ambassador [Acessnow](https://accessnow.org)
 *   **Nafeer Initiative:** Developer
 *   **Zoada Initiative:** Developer
-*   Actively engaged in Community Cybersecurity initiatives and promoting Technology Trends.
+*   **Actively engaged in Community Cybersecurity initiatives and promoting Technology Trends.**
 
 ---
 

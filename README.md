@@ -1,7 +1,7 @@
 # Abdalrahman Molood
 ### Technology Consultant | Cloud & Cybersecurity Expert | Strategic IT Leader
 
-Welcome to my GitHub profile! I'm Abdalrahman Molood, a seasoned **Technology Consultant** with extensive experience in spearheading digital transformation, architecting robust cloud solutions (AWS, Azure, GCP), and fortifying cybersecurity postures for diverse organizations. My career has been marked by leadership roles (CTO, CEO) where I've driven innovation, optimized IT operations, and built high-performing technical teams.
+Welcome to my GitHub profile! I'm Abdalrahman Molood, a **Technology Consultant** with extensive experience in spearheading digital transformation, architecting robust cloud solutions (AWS, Azure, GCP), and fortifying cybersecurity postures for diverse organizations. My career has been marked by leadership roles (CTO, CEO) where I've driven innovation, optimized IT operations, and built high-performing technical teams.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdalrahman%20Molood-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/amolood)
 

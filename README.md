@@ -29,19 +29,18 @@ Welcome to my GitHub profile! I'm Abdalrahman Molood, a seasoned **Technology Co
 *   **Containerization & Orchestration:** Docker, Kubernetes
 
 **Cybersecurity:**
-*   **Offensive/Defensive:** Penetration Testing, Vulnerability Assessments, Incident Response, SIEM (Splunk), Security Audits
-*   **Infrastructure Security:** IDS/IPS, Firewall Management, Network Security, Endpoint Security
-*   **Data & Application Security:** DLP (Data Loss Prevention), Cryptography, Secure Coding, Security Awareness Training
-*   **Compliance & Frameworks:** GDPR, HIPAA, PCI DSS, OWASP Top 10, NIST Cybersecurity Framework
-*   **Tools:** Metasploit, Wireshark, Burp Suite
+*   **Offensive/Defensive:** Penetration Testing, Vulnerability Assessments, Incident Response, SIEM (Splunk), Security Audits.
+*   **Infrastructure Security:** IDS/IPS, Firewall Management, Network Security, Endpoint Security.
+*   **Data & Application Security:** DLP (Data Loss Prevention), Cryptography, Secure Coding, Security Awareness Training.
+*   **Compliance & Frameworks:** GDPR, HIPAA, PCI DSS, OWASP Top 10, NIST Cybersecurity Framework.
+*   **Tools:** Metasploit, Wireshark, Burp Suite.
 
 **Software Development & DevOps:**
-*   **Languages:** PHP, Python, JavaScript (ES6+), SQL, HTML5, CSS3, JSON, XML, YAML, Markdown
-*   **Frameworks/Libraries:** Laravel, Node.js, Express.js, React, Vue.js, jQuery, Bootstrap, Sass, Less
-*   **Databases:** MySQL, PostgreSQL, MongoDB, Redis; Database Design, Data Modeling, Data Warehousing, ETL Processes
-*   **DevOps & Infrastructure:** CI/CD (Jenkins, GitLab CI), Infrastructure as Code (IaC - Terraform, Ansible), Version Control (Git, GitHub), Linux System Administration, Shell Scripting
-*   **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
-*   **Web/App Development:** Mobile-First Design, Responsive Web Design, Secure Web Development, API Development (REST, GraphQL), Web Accessibility (WCAG)
+*   **Languages:** PHP, Python, JavaScript (ES6+), SQL, HTML5, CSS3, JSON, XML, YAML, Markdown.
+*   **Frameworks/Libraries:** Laravel, Node.js, Express.js.
+*   **Databases:** MySQL, PostgreSQL, MongoDB, Redis.
+*   **DevOps & Infrastructure:** CI/CD , Version Control (Git, GitHub), Linux System Administration, Shell Scripting.
+*   **Web/App Development:** Mobile-First Design, Responsive Web Design, Secure Web Development, API Development (REST, GraphQL).
 
 **IT Strategy & Management:**
 *   IT Strategy & Planning, IT Project Management (Agile/Scrum, Kanban), Risk Management
@@ -51,12 +50,12 @@ Welcome to my GitHub profile! I'm Abdalrahman Molood, a seasoned **Technology Co
 ---
 
 ## 🚀 Key Achievements (Highlights from Experience)
-*   Shaped the technological vision of **Taqrer.net**, achieving a **25% increase in user adoption** and reducing IT operational costs by **18%** via AWS migration.
+*   Shaped the technological vision of **Taqrer.net**, achieving a **25% increase in user adoption** and reducing IT operational costs by **18%**.
 *   Reduced security incidents by **40%** through deployed cybersecurity safeguards.
 *   Improved project delivery time by **30%** by guiding Agile/Scrum adoption.
-*   As CEO of **Digitalize Lab**, secured **20+ clients** in two years, driving **25% average revenue growth** for them.
+*   As CEO of **Digitalize Lab**, secured **85+ clients** in two years, driving **35% average revenue growth** for them.
 *   Spearheaded a new e-commerce platform, resulting in a **30% increase in online sales**.
-*   Founded and scaled **Future Link for Information Technology**, launching a SaaS project management tool with **1000+ downloads** in three months.
+*   Founded and scaled **Future Link for Information Technology**, launching a SaaS project management tool with **1000+ client** in six months.
 
 ---
 

@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm Abdalrahman Molood, a **Technology Consultant*
 * My recent focus has been on **FinTech** and **Social Impact** solutions, developing secure banking applications and humanitarian platforms.
 * I combine strategic leadership with deep technical expertise in **Flutter (Dart)**, **PHP (Laravel/WordPress)**, and **Advanced Cryptography**.
 * I have a proven track record of:
-    * 📱 **Mobile Innovation:** Developing secure banking apps with military-grade encryption (Bank of Khartoum).
-    * ❤️ **Social Impact:** Launching vital platforms for blood donation and charitable giving (Wareed, Yousr).
+    * 📱 **Mobile Innovation:** Developing secure banking apps with military-grade encryption.
+    * ❤️ **Social Impact:** Launching vital platforms for blood donation and charitable giving (Wareed, Yusr).
     * 🏛️ **Digital Governance:** Delivering official web presences for major Sudanese governmental bodies (Sudan Airways, Customs, Ministry of Culture).
     * 🛡️ **Cybersecurity:** Implementing robust encryption algorithms (AES, RSA, TripleDES) to protect sensitive transaction data.
 
@@ -46,12 +46,12 @@ Welcome to my GitHub profile! I'm Abdalrahman Molood, a **Technology Consultant*
 ## 🚀 Key Achievements & Recent Projects
 
 ### 🏦 FinTech & Banking
-* **Bank of Khartoum Mobile App:** Lead development on secure mobile banking solutions using **Flutter**. Implemented end-to-end encryption (AES/RSA) for transaction receipts and sensitive user data.
+* **Bank Mobile App:** Lead development on secure mobile banking solutions using **Flutter**. Implemented end-to-end encryption (AES/RSA) for transaction receipts and sensitive user data.
 * **Secure Payment Integration:** Developed custom payment gateways and transaction verification systems.
 
 ### ❤️ Humanitarian & Social Platforms
 * **Wareed (Blood Donation Platform):** Architected the brand identity and full-stack development of a centralized platform connecting blood donors with hospitals.
-* **Yousr_Donate:** Developed a specialized donation management system (WordPress/PHP) to facilitate seamless charitable contributions.
+* **Yusr_Donate:** Developed a specialized donation management system to facilitate seamless charitable contributions.
 
 ### 🏛️ Government & Enterprise
 * **National Web Projects:** Designed and developed official portals for **Sudan Airways**, **Sudan TV**, **Sudan Customs Authority**, and the **Ministry of Culture and Information**.
@@ -62,6 +62,7 @@ Welcome to my GitHub profile! I'm Abdalrahman Molood, a **Technology Consultant*
 
 ## 🤝 Volunteer Experience & Community Engagement
 * **ISNAD Sudanese community hub:** Founder - [Aseer](https://aseer.net)
+* **Ragami** Founder - [Ragami](https://ragami.sd)
 * **Afiyah (Covid19 platform):** Founder
 * **Ethraa Initiative:** Founder & Developer
 * **Access Now:** Ambassador [Accessnow](https://accessnow.org)

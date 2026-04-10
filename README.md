@@ -60,17 +60,6 @@ Welcome to my GitHub profile. I am Abdalrahman Molood, a Technology Consultant a
 * **Wajib.sd:** Built a dedicated platform for digital community contributions and social support.
 * **Ana Almuslim:** Created and launched an impactful digital Islamic project.
 
-### Government & Enterprise
-* **National Infrastructure Projects:** Designed and developed official portals for Sudan Railways, Sudan Airways, Sudan Customs Authority, and the Ministry of Culture and Information.
-* **Nile Petroleum:** Developing the official digital web presence for the major petroleum enterprise.
-* **Taqrer.net:** Shaped the technological vision, achieving a 25% increase in user adoption.
-
-### Commercial & Agencies
-* **Travel & Tourism:** Delivered comprehensive booking and informational platforms for Baeed Travel and Tourism and Real Image Tours.
-* **Camli Beauty:** Designed and developed an elegant web presence and e-commerce platform for the beauty brand.
-
----
-
 ## Volunteer Experience & Community Engagement
 
 * **ISNAD Sudanese community hub:** Founder - [Aseer](https://aseer.net)
